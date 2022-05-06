@@ -1,6 +1,6 @@
 print('hello')
 
-for i in range(1,10):
+for i in range(1,20):
     if i % 3 == 0:
         print("year")
     elif i % 5 == 0:
